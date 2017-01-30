@@ -1,0 +1,22 @@
+{ 
+	"show_01" : {
+		"transition_card" : "Program Files/Derivative/TouchDesigner088/Samples/Map/Banana.tif" ,
+		"audio_file" :"3A/ASSETS/AUDIO/Show_01_122816.wav",
+		"media_path" : "C:/" 
+	} , 
+	"show_02" : {
+		"transition_card" : "Program Files/Derivative/TouchDesigner088/Samples/Map/Banana.tif'" ,
+		"audio_file" :"3A/ASSETS/AUDIO/Show_02_122816.wav",
+		"media_path" : "C:/" 
+	} ,
+	"show_03" : {
+		"transition_card" : "Program Files/Derivative/TouchDesigner088/Samples/Map/Banana.tif" ,
+		"audio_file" :"3A/ASSETS/AUDIO/Show_01_122816.wav",
+		"media_path" : "C:/" 
+	} , 
+	"show_04" : {
+		"transition_card" : "Program Files/Derivative/TouchDesigner088/Samples/Map/Banana.tif" ,
+		"audio_file" :"3A/ASSETS/AUDIO/Show_01_122816.wav",
+		"media_path" : "C:/" 
+	}
+}

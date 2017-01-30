@@ -1,0 +1,60 @@
+{ 
+	"master" : {
+		"role" : "master" ,
+        "machine" : "MACHINE-3A-2" ,
+		"ip_address" :"",
+		"media_path" : "M:/" , 
+        "resolution" : [1280,720] ,
+		"tox" : [   "show.tox" , 
+                    "transition.tox" ,
+                    "controls.tox" ,
+                    "audio.tox" ,
+                    "sync.tox"
+        		] ,
+		"name" : [  "show" ,
+                    "transition" ,
+				    "control" ,
+                    "audio" ,
+                    "sync"  	
+        		] ,
+		"xPos" : [  100 ,
+                    300 ,
+                    500 ,
+                    700 , 
+                    1000 
+        		] ,
+		"yPos" : [  0 ,
+                    0 ,
+                    0 ,
+                    0 ,
+                    0
+        		]  
+	} ,
+	"slave01" : {
+		"role" : "slave" ,
+         "machine" : "MACHINE-3A-1" ,
+		"ip_address" :"",
+		"media_path" : "M:/" ,
+        "resolution" : [1920,1080] , 
+		"tox" : [   "sync.tox" ,
+                    "show.tox" ,
+                    "transition.tox" , 
+                    "output.tox"
+        		] ,
+		"name" : [  "sync" ,
+                    "show" ,
+                    "transition" , 
+                    "output" 	
+        		] ,
+		"xPos" : [  100 ,
+				    300 ,
+                    500 ,
+                    700
+        		] ,
+		"yPos" : [  0 ,
+				    0 , 
+                    0 , 
+                    0
+        		]  
+	}
+}

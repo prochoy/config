@@ -1,0 +1,5 @@
+{
+	"VERIRL-POWER-1"	:	[ "slave00" ] ,
+	"VERIRL-POWER-2"	:	[ "slave01" , "master" ] ,
+	"VERIRL-POWER-3"    :	[ "slave02" ]
+}
